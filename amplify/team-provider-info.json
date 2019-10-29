@@ -15,5 +15,22 @@
                 "cognitoa7d29d9d": {}
             }
         }
+    },
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-awsserverlessairline-dev-143012-authRole",
+            "UnauthRoleArn": "arn:aws:iam::877433739504:role/amplify-awsserverlessairline-dev-143012-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::877433739504:role/amplify-awsserverlessairline-dev-143012-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-awsserverlessairline-dev-143012-deployment",
+            "UnauthRoleName": "amplify-awsserverlessairline-dev-143012-unauthRole",
+            "StackName": "amplify-awsserverlessairline-dev-143012",
+            "StackId": "arn:aws:cloudformation:us-west-2:877433739504:stack/amplify-awsserverlessairline-dev-143012/6b151790-f9fc-11e9-96cf-0a52752701a6"
+        },
+        "categories": {
+            "auth": {
+                "cognitoa7d29d9d": {}
+            }
+        }
     }
 }
